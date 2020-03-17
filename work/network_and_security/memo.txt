@@ -1,0 +1,23 @@
+2020/03/17
+
+¡ƒRƒ}ƒ“ƒhˆê——
+
+$ history
+    1  docker network ls
+    2  docker network inspect bridge
+    3  apt update
+    4  apk update
+    5  apk add bridge
+    6  brctl show
+    7  ip a
+    8  docker run -dt ubuntu sleep infinity
+    9  docker ps
+   10  brctl show
+   11  ip a
+   12  docker network inspect bridge
+   13  docker ps
+   14  docker stop f4ad2bd15163
+   15  docker run --name -d -p 8080:80 nginx
+   16  curl localhost:8080
+   17  history
+   
